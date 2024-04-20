@@ -7,3 +7,5 @@ This website uses a number of open source projects to work properly:
 
 * [Flask] -  Python Web framework
 * [Bootstrap] -  Our frontend framework
+
+![alt text](image.png)
